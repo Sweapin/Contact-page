@@ -12,7 +12,7 @@ body {
 /* Navigation */
 .nav{
     width: 100%;
-    background-color:#b8e1f254;
+    background-color:#b8e1f281;
     box-sizing: border-box;
     display: flex;
     justify-content: space-around;
@@ -253,6 +253,12 @@ select:valid {
         width: 0;
     }
 
+}
+
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
